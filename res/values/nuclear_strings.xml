@@ -432,4 +432,9 @@
     <string name="qs_advanced_data_title">Advanced data tile</string>
     <string name="qs_advanced_data_summary">Enable one tap action to enable or disable data</string>
 
+    <!-- Menu label for reset the battery stats -->
+    <string name="menu_stats_reset">Reset stats</string>
+    <!-- Reset stats confirmation dialog's message -->
+    <string name="reset_stats_msg">Battery history stats are going to be reset</string>
+
 </resources>
