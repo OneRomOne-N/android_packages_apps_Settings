@@ -10,4 +10,8 @@
     
 	<!-- Gesture Anywhere -->
     <color name="ga_gesture_color">@android:color/holo_blue_light</color>
+
+    <!-- Color engine -->
+    <color name="pixel_primary_color">#242424</color>
+    <color name="pixel_secondary_color">#3a3a3a</color>
  </resources> 
