@@ -329,17 +329,17 @@
     <string name="fp_unlock_keystore_title">Разблокировка отпечатком пальца</string>
     <string name="fp_unlock_keystore_summary">Разблокировать устройство отпечатком пальца после перезагрузки без ввода PIN-кода/Пароля/Графического ключа\nЗаметка: на свой страх и риск!</string>
 
-   <!-- Substratum and Magisk dashboard tiles -->
-   <string name="substratum_title">Substratum</string>
-   <string name="substratum_summary">Настройка темы устройства</string>
-   <string name="magisk_title">Управление Magisk</string>
-   <string name="magisk_summary">Управление Root правами</string>
+    <!-- Substratum and Magisk dashboard tiles -->
+    <string name="substratum_title">Substratum</string>
+    <string name="substratum_summary">Настройка темы устройства</string>
+    <string name="magisk_title">Управление Magisk</string>
+    <string name="magisk_summary">Управление Root правами</string>
 
-   <!-- Screenshot sound -->
-   <string name="screenshot_sound_title">Звук скриншота</string>
-   <string name="screenshot_sound_summary">Воспроизводить звуковой эффект при создании скриншота</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Звук скриншота</string>
+    <string name="screenshot_sound_summary">Воспроизводить звуковой эффект при создании скриншота</string>
 
-   <!-- Volume Steps -->
+    <!-- Volume Steps -->
     <string name="volume_steps_title">Шаг громкости</string>
     <string name="volume_steps_alarm_title">Шаг громкости: Будильник</string>
     <string name="volume_steps_dtmf_title">Шаг громкости: DTMF</string>
@@ -355,4 +355,84 @@
     <string name="volume_steps_15">15</string>
     <string name="volume_steps_7">7</string>
     <string name="volume_steps_5">5</string>
+    
+    <!-- Clear recents positions -->
+    <string name="show_clear_all_recents_button_title">Кнопка «Очистить всё»</string>
+    <string name="show_clear_all_recents_button_summary">Показывать кнопку «Очистить всё»</string>
+    <string name="recents_clear_all_location_title">Расположение кнопки «Очистить всё»</string>
+    <string name="recents_clear_all_location_top_right">Вверху справа</string>
+    <string name="recents_clear_all_location_top_left">Вверху слева</string>
+    <string name="recents_clear_all_location_top_center">Вверху по центру</string>	
+    <string name="recents_clear_all_location_bottom_right">Снизу справа</string>
+    <string name="recents_clear_all_location_bottom_left">Снизу слева</string>
+    <string name="recents_clear_all_location_bottom_center">Снизу по центру</string>
+    <string name="recents_clear_all_title">Очистить всё</string>
+    <string name="rr_recents_animations_title">Меню недавних приложений</string>
+    <string name="recents_anim_title">Анимация меню недавних приложений</string>
+    <string name="recents_anim_summary">Настроить задержку меню недавних приложений и его действия</string> 
+
+    <!-- Qs Panel -->
+    <string name="nuclear_qs_title">Быстрые настройки</string>
+    <string name="qs_category">Опции быстрых настроек</string>
+    <string name="qs_tiles">Плитки быстрых настроек</string>
+    <string name="nuclear_qs_animation">Анимации быстрых настроек</string>
+
+    <string name="qs_fancy_animation_title">Необычные анимации быстрых настроек</string>
+    <string name="qs_fancy_animation_summary">Включить различные анимации, потянув вниз строку состояния</string>
+
+    <string name="qs_tile_layout">Расположение плиток</string>
+    <string name="nuclear_qs_layout">Расположение</string>
+    <string name="qs_advanced_title">Дополнительные настройки</string>
+
+    <!-- WIFI easy toggle -->
+    <string name="qs_wifi_easy_toggle_title">Быстрое переключение Wi-Fi</string>
+    <string name="qs_wifi_easy_toggle_summary">Включение или выключение Wi-Fi одиночным нажатием на плитку вместо перехода в настройки</string>
+    
+    <!-- BT easy toggle -->
+    <string name="qs_bt_easy_toggle_title">Быстрое переключение Bluetooth</string>
+    <string name="qs_bt_easy_toggle_summary">Включение или выключение Bluetooth одиночным нажатием на плитку вместо перехода в настройки</string>
+
+    <!-- Disable OS on lockscreen -->
+    <string name="block_on_secure_keyguard_title">Отключить быстрые настройки</string>
+    <string name="block_on_secure_keyguard_summary">Отключает быстрые настройки на экране блокировки</string>
+
+    <!-- QS settings -->
+    <string name="status_bar_expanded_qs_settings">Расположение</string>
+    <string name="status_bar_expanded_qs_settings_summary">Выберите количество строк и столбцов</string>
+    <string name="qs_layout_category">Расположение плиток быстрых настроек</string>
+    <string name="qs_rows_portrait_title">Строки (портрет)</string>
+    <string name="qs_rows_landscape_title">Строки (ландшафт)</string>
+    <string name="qs_columns_title">Колонки</string>
+
+    <!-- Tiles animation style  -->
+    <string name="qs_tiles">Плитки быстрых настроек</string>
+    <string name="qs_tile_animation_style_title">Стиль анимации</string>
+    <string name="qs_tile_animation_duration_title">Длительность анимации</string>
+    <string name="qs_tile_animation_interpolator_title">Интерполяция анимации</string>
+    <string name="qs_tile_animation_style_off">Без анимации</string>
+    <string name="qs_tile_animation_style_flip">Переворот</string>
+    <string name="qs_tile_animation_style_rotate">Поворот</string>
+    <string name="qs_tile_animation_duration_low">Медленно</string>
+    <string name="qs_tile_animation_duration_default">По умолчанию</string>
+    <string name="qs_tile_animation_duration_fast">Быстро</string>
+    <string name="qs_tile_animation_duration_superfast">Очень быстро</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Линейная</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Ускорение</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Замедление</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Ускорить/замедлить</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Отскок</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Вылет</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Ускорение</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Ускорение/вылет</string>
+    <string name="qs_set_animation_style">%1$s</string>
+    <string name="qs_set_animation_duration">%1$s</string>
+    <string name="qs_set_animation_interpolator">%1$s</string> 
+
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Вибрировать при касании</string>
+    <string name="quick_settings_vibrate_summary">Вибрировать при нажатии на плитки быстрых настроек</string>
+    
+    <!-- Advanced data tile -->
+    <string name="qs_advanced_data_title">Расширенная плитка моб. данных</string>
+    <string name="qs_advanced_data_summary">Включение или отключение моб. данных одним касанием</string>
 </resources>
