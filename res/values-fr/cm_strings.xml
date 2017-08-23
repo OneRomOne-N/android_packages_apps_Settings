@@ -255,6 +255,7 @@ Vous êtes maintenant à <xliff:g id="step_count">%1$d</xliff:g> étapes de l\'a
   <!-- lock screen visualizer -->
   <string name="lockscreen_visualizer_title">Afficher le visualiseur de musique</string>
   <!-- Lock screen cover art -->
+  <string name="lockscreen_media_art_title">Afficher la couverture du média</string>
   <!-- Double tap to sleep on keyguard -->
   <!-- Protected apps lockpattern reset button -->
   <string name="lockpattern_reset_button">Réinitialiser le schéma</string>
@@ -430,4 +431,6 @@ Vous êtes maintenant à <xliff:g id="step_count">%1$d</xliff:g> étapes de l\'a
   <!-- IC Codes -->
   <string name="ic_code_model">Modèle : %1$s</string>
   <string name="ic_code_full">IC : %1$s</string>
+  <!-- Label for settings shortcut: carrier selection -->
+  <string name="shortcut_carrier_title">Opérateurs réseau</string>
 </resources>
