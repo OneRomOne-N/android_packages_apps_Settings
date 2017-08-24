@@ -435,4 +435,9 @@
     <!-- Advanced data tile -->
     <string name="qs_advanced_data_title">Расширенная плитка моб. данных</string>
     <string name="qs_advanced_data_summary">Включение или отключение моб. данных одним касанием</string>
+    
+     <!-- Menu label for reset the battery stats -->
+    <string name="menu_stats_reset">Сбросить статистику</string>
+    <!-- Reset stats confirmation dialog's message -->
+    <string name="reset_stats_msg">Статистика батареи будет сброшена</string>
 </resources>
