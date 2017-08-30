@@ -8,6 +8,16 @@
     xmlns:lineage="http://schemas.android.com/apk/res/cyanogenmod.platform">
 
     <PreferenceCategory
+        android:key="theme_title"
+        android:title="@string/theme_title">
+
+            <com.android.settings.display.ThemePreference
+            android:key="theme"
+            android:title="@string/theme" 
+            android:icon="@drawable/nuclear_theme" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="gestures_category"
         android:title="@string/gestures_category">
 
