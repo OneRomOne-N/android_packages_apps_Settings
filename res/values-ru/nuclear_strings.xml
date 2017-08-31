@@ -436,8 +436,30 @@
     <string name="qs_advanced_data_title">Расширенная плитка моб. данных</string>
     <string name="qs_advanced_data_summary">Включение или отключение моб. данных одним касанием</string>
     
-     <!-- Menu label for reset the battery stats -->
+    <!-- Menu label for reset the battery stats -->
     <string name="menu_stats_reset">Сбросить статистику</string>
     <!-- Reset stats confirmation dialog's message -->
     <string name="reset_stats_msg">Статистика батареи будет сброшена</string>
+    
+    <!-- Color engine -->
+    <string name="theme_switch_palette">Переключение между основным и акцентными цветами</string>
+    <string name="theme_title">Цветовой движок</string>
+    <string name="theme_summary">Выберите различные цвета для текущей темы</string>
+    <string name="theme_accent_color">Цвет акцента</string>
+    <string name="theme_primary_color">Цвет основной</string>
+    <string name="theme">Тема</string>
+    <string name="oms_enabled">Режимы темы недоступны, потому что в настоящее время применяется тема Substratum</string>
+    <string name="red">Красный факел</string>
+    <string name="orange">Алый</string>
+    <string name="blue">Синий Пиксель</string>
+    <string name="green">Лима</string>
+    <string name="yellow">Радиоактивный</string>
+    <string name="purple">Фиолетовый теплый</string>
+    <string name="pink">Розовый</string>
+    <string name="dark">Темный</string>
+    <string name="pixel">Пиксель</string>
+    <string name="teal">По умолчанию</string>
+    <string name="cyan">Скутер</string>
+    <string name="grey">Серый</string>
+    <string name="default_string">По умолчанию</string>
 </resources>
