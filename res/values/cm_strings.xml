@@ -491,7 +491,7 @@
     <string name="sim_enabler_disabling">Deactivating\u2026</string>
     <string name="sub_activate_success">SIM activated.</string>
     <string name="sub_activate_failed">Activation failed.</string>
-    <string name="sub_deactivate_success">SIM deactivated.</string>
+    <string name="sub_deactivate_success">SIM deactivated. To hide the Blank Signal icon, Enable switch below.</string>
     <string name="sub_deactivate_failed">Deactivation failed.</string>
 
     <!-- About phone settings screen, setting option dialog title to show regulatory information [CHAR LIMIT=25] -->

@@ -32,6 +32,12 @@
             android:defaultValue="true"/>
 
         <com.android.settings.nuclear.Preferences.SystemSettingSwitchPreference
+            android:key="no_sim_cluster_switch"
+            android:title="@string/no_sim_cluster_switch_title"
+            android:summary="@string/no_sim_cluster_switch_summary"
+            android:defaultValue="false"/>
+
+        <com.android.settings.nuclear.Preferences.SystemSettingSwitchPreference
             android:key="battery_save_mode_color"
             android:title="@string/battery_saver_color_title"
             android:summary="@string/battery_saver_color_summary"

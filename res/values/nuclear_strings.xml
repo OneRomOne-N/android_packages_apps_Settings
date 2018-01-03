@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
@@ -458,4 +459,8 @@
     <string name="cyan">Scooter</string>
     <string name="grey">Grey</string>
     <string name="default_string">Default</string>
+
+    <!-- Blank Signal Icon Switch -->
+    <string name="no_sim_cluster_switch_title">No sim network hide</string>
+    <string name="no_sim_cluster_switch_summary">Hide the network bar if the subscription of sim is inactive and disabled. If sim is not disabled, this switch will not work</string>
 </resources>
