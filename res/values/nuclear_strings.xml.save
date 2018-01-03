@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Nuclear custom settings main -->
+	<!-- Nuclear custom settings main -->
     <string name="nuclear_activity_title">Nuclear Settings</string>
     <string name="nuclear_title">Nuclear Tweaks</string>
     <string name="nuclear_settings_title">Categories</string>
@@ -459,7 +459,8 @@
     <string name="grey">Grey</string>
     <string name="default_string">Default</string>
 
-    <!-- Blank Signal Icon Switch -->
+    <!-- Blank Signal Switch -->
     <string name="no_sim_cluster_switch_title">No sim network hide</string>
-    <string name="no_sim_cluster_switch_summary">Hide the network bar if the subscription of sim is inactive. If sim is not disabled, this switch will not work</string>
+    <string name="no_sim_cluster_switch_summary">Hide the network bar if the subscription of sim is inactive and disabled. If sim is not disabled, this switch will not work</string>
+
 </resources>
