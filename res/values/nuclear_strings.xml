@@ -363,9 +363,11 @@
  	<string name="recents_clear_all_location_bottom_left">Bottom left</string>
  	<string name="recents_clear_all_location_bottom_center">Bottom center</string>
  	<string name="recents_clear_all_title">Clear All</string>
-    <string name="rr_recents_animations_title">Recents</string>
-    <string name="recents_anim_title">Recents Animations</string>
-    <string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
+	<string name="rr_recents_animations_title">Recents</string>
+	<string name="recents_anim_title">Recents Animations</string>
+	<string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
+	<string name="systemui_recents_mem_display_title">Show Memory Bar</string>
+	<string name="systemui_recents_mem_display_summary">Enable Disable Ram bar in recent app view</string>
 
    <!-- Qs Panel -->
    <string name="nuclear_qs_title">Quick Settings Panel</string>
