@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Nuclear custom settings main -->
+	<!-- Nuclear custom settings main -->
     <string name="nuclear_activity_title">Nuclear Settings</string>
     <string name="nuclear_title">Nuclear Tweaks</string>
     <string name="nuclear_settings_title">Categories</string>
@@ -363,11 +363,9 @@
  	<string name="recents_clear_all_location_bottom_left">Bottom left</string>
  	<string name="recents_clear_all_location_bottom_center">Bottom center</string>
  	<string name="recents_clear_all_title">Clear All</string>
-	<string name="rr_recents_animations_title">Recents</string>
-	<string name="recents_anim_title">Recents Animations</string>
-	<string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
-	<string name="systemui_recents_mem_display_title">Show Memory Bar</string>
-	<string name="systemui_recents_mem_display_summary">Enable Disable Ram bar in recent app view</string>
+    <string name="rr_recents_animations_title">Recents</string>
+    <string name="recents_anim_title">Recents Animations</string>
+    <string name="recents_anim_summary">Customize the Delay of Recents window and its actions</string>
 
    <!-- Qs Panel -->
    <string name="nuclear_qs_title">Quick Settings Panel</string>
@@ -461,7 +459,8 @@
     <string name="grey">Grey</string>
     <string name="default_string">Default</string>
 
-    <!-- Blank Signal Icon Switch -->
+    <!-- Blank Signal Switch -->
     <string name="no_sim_cluster_switch_title">No sim network hide</string>
-    <string name="no_sim_cluster_switch_summary">Hide the network bar if the subscription of sim is inactive. If sim is not disabled, this switch will not work</string>
+    <string name="no_sim_cluster_switch_summary">Hide the network bar if the subscription of sim is inactive and disabled. If sim is not disabled, this switch will not work</string>
+
 </resources>
